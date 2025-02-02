@@ -1,5 +1,6 @@
 # Neovim (Universal)
 Simple neovim setup for C, C++, python
+<img width="1281" alt="Screenshot 2025-02-01 at 11 14 16 PM" src="https://github.com/user-attachments/assets/14316323-81af-4bb4-b99f-19d29ad51d95" />
 
 
 # Usage:
